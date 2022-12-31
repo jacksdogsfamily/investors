@@ -1,32 +1,30 @@
 ---
-title: Home
+title: Investor Relations
 layout: home
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+description: "Official investor relations website of the Jack's Dogs Family company."
 permalink: /
 ---
 
-# Focus on writing good documentation
+# The Jack's Dogs Family Company
 {: .fs-9 }
 
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
+The Jack's Dogs Family Worldwide, LLC. is a multinational company focusing on building a franchise ecosystem around the Jack's Dogs Family franchise.
 {: .fs-6 .fw-300 }
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[View it on GitHub][Just the Docs repo]{: .btn .fs-5 .mb-4 .mb-md-0 }
+[Invest in the company](mailto:investors@jacksdogsfamily.tk){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[View it on GitHub][/#faq]{: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
 {: .warning }
 > This website documents the features of the current `main` branch of the Just the Docs theme. See the CHANGELOG for a list of releases, new features, and bug fixes. 
 
-Just the Docs is a theme for generating static websites with [Jekyll]. You can write source files for your web pages using [Markdown], the [Liquid] templating language, and HTML.[^1] Jekyll builds your site by converting all files that have [front matter] to HTML. Your [Jekyll configuration] file determines which theme to use, and sets general parameters for your site, such as the URL of its home page.
+**The Jack's Dogs Family Worldwide, LLC.**, commonly known as just **Jack's Dogs Family (JDSF)**, is an American, multinational, entertainment business that is headquartered in Munich, Germany. The company was founded on XXXX YY, 20ZZ, by brothers Aahash and Suriyaa Sundararuban. Early in its existence, the company established itself as a digital media studio in the animation industry.
 
-Jekyll builds this Just the Docs theme docs website using the theme itself. These web pages show how your web pages will look *by default* when you use this theme. But you can easily *customize* the theme to make them look completely different!
+*Browse this Investor Relations website to learn more about the company.*
 
-Browse the docs to learn more about how to use this theme.
-
-## Getting started
+## FAQ
 
 The [Just the Docs Template] provides the simplest, quickest, and easiest way to create a new website that uses the Just the Docs theme. To get started with creating a site, just click "[use the template]"!
 

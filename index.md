@@ -43,6 +43,35 @@ No. You can only buy the shares directly from the company. The shares also must 
 ## Significant shareholders
 To the knowledge of the company, the following shareholders were the only shareholders holding more than 3% of the share capital of The Jack's Dogs Family Worldwide, LLC. as at XXth YYYY 20ZZ:
 
+<script>
+window.onload = function() {
+
+var chart = new CanvasJS.Chart("chartContainer", {
+	animationEnabled: true,
+	title: {
+		text: "JDSF Company's Significant Shareholders - 20XX"
+	},
+	data: [{
+		type: "pie",
+		startAngle: 240,
+		yValueFormatString: "##0.00\"%\"",
+		indexLabel: "{label} {y}",
+		dataPoints: [
+			{y: 40, label: "Aahash Sundararuban"},
+			{y: 40, label: "Suriyaa Sundararuban"},
+			{y: 10, label: "ESOP Pool"},
+			{y: 10, label: "JASUAA Foundation"}
+		]
+	}]
+});
+chart.render();
+
+}
+</script>
+<!-- JS chart from https://canvasjs.com/html5-javascript-pie-chart/ -->
+<div id="chartContainer" style="height: 370px; width: 100%;"></div>
+<script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+
 | Percentage of Ownership | Shareholder Name                      |
 |-------------------------|---------------------------------------|
 |                     40% | Aahash Sundararuban (co-founder)      |

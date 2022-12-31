@@ -22,7 +22,14 @@ The Jack's Dogs Family Worldwide, LLC. is a multinational company focusing on bu
 
 **The Jack's Dogs Family Worldwide, LLC.**, commonly known as just **Jack's Dogs Family (JDSF)**, is an American, multinational, entertainment business that is headquartered in Munich, Germany. The company was founded on XXXX YY, 20ZZ, by brothers Aahash and Suriyaa Sundararuban. Early in its existence, the company established itself as a digital media studio in the animation industry.
 
+Our commitment to creativity, technology and innovation generates unparalleled experiences that drive long-term value for our shareholders.
+
 *Browse this Investor Relations website to learn more about the company.*
 
 ## FAQ
+...
+
+## Social Responsibility
+Our approach to corporate social responsibility is built upon the Company’s long and enduring legacy of engagement in our workplaces and communities and our actions to protect the environment.
+
 ...

@@ -26,7 +26,22 @@ Our commitment to creativity, technology and innovation generates unparalleled e
 ## FAQ
 ...
 
+## Significant shareholders
+To the knowledge of the company, the following shareholders were the only shareholders holding more than 3% of the share capital of The Jack's Dogs Family Worldwide, LLC. as at XXth YYYY 20ZZ:
+
+| Percentage of Ownership | Shareholder Name                      |
+|-------------------------|---------------------------------------|
+|                     40% | Aahash Sundararuban (co-founder)      |
+|                     40% | Suriyaa Sundararuban (co-founder)     |
+|                     10% | ESOP Pool (for company employees)[^1] |
+|                     10% | JASUAA Foundation[^2]                 |
+
 ## Social Responsibility
 Our approach to corporate social responsibility is built upon the Company’s long and enduring legacy of engagement in our workplaces and communities and our actions to protect the environment.
 
 ...
+
+----
+
+[^1]: Voting rights for the ESOP shares held by the company need to be exercised in accordance with the employees' instructions.
+[^2]: The shares held by the non-profit JASUAA Foundation bear no voting rights.

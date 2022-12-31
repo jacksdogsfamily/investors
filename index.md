@@ -1,12 +1,12 @@
 ---
-title: Investor Relations
+title: The Jack's Dogs Family Company
 layout: home
 nav_order: 1
 description: "Official investor relations website of the Jack's Dogs Family company."
 permalink: /
 ---
 
-# The Jack's Dogs Family Company
+# Investor Relations
 {: .fs-9 }
 
 The Jack's Dogs Family Worldwide, LLC. is a multinational company focusing on building a franchise ecosystem around the Jack's Dogs Family franchise.

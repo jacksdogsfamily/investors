@@ -13,7 +13,7 @@ The Jack's Dogs Family Worldwide, LLC. is a multinational company focusing on bu
 {: .fs-6 .fw-300 }
 
 [Invest in the company](mailto:investors@jacksdogsfamily.tk){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[FAQ][(#faq){: .btn .fs-5 .mb-4 .mb-md-0 }
+[FAQ](#faq){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 

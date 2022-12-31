@@ -24,7 +24,21 @@ Our commitment to creativity, technology and innovation generates unparalleled e
 *Browse this Investor Relations website to learn more about the company.*
 
 ## FAQ
-...
+<details>
+<summary>Where can I find your publications?</summary>
+<br>
+  All corporate publications can be requested via email. Please contact <a href="mailto:investors@jacksdogsfamily.tk">investors@jacksdogsfamily.tk</a> for the annual reports.
+</details>
+<details>
+<summary>What type of share classes do the company have?</summary>
+<br>
+The company has a <a href="https://www.investopedia.com/terms/d/dualclassstock.asp">dual class stock structure</a>. All shares are registered shares with a par value of USD 1.00 each. They have the different rights according to their type. Every Class A share has ten times the voting power than a Class B share. Every Class B share has one voting and lower dividend priority than Class A shares.
+</details>
+<details>
+<summary>Can I buy shares with a broker?</summary>
+<br>
+No. You can only buy the shares directly from the company. The shares also must be owned by the person or entity that holds the underlying physical/digital stock certificate.
+</details>
 
 ## Significant shareholders
 To the knowledge of the company, the following shareholders were the only shareholders holding more than 3% of the share capital of The Jack's Dogs Family Worldwide, LLC. as at XXth YYYY 20ZZ:

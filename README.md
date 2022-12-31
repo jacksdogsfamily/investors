@@ -1,6 +1,6 @@
-# just-the-docs-template
+# Investor Relations website
 
-This is a *bare-minimum* template to create a [Jekyll] site that:
+This is the investor relations website of the Jack's Dogs Family company that:
 
 - uses the [Just the Docs] theme;
 - can be built and published on [GitHub Pages];
